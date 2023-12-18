@@ -1,4 +1,4 @@
 # demo-repository
  this is my first repository 
  <br>
- Author - Vidhita Sharma
+ Author - Vidhita Sharma (apna college)
